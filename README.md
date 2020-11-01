@@ -1,3 +1,5 @@
 # MyGit
 First word!
-First third!
+Second word!
+Third word!
+Forth word!
